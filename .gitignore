@@ -1,6 +1,0 @@
-bin\
-obj\
-properties\
-*.config
-*.text
-*.csproj
