@@ -1,0 +1,7 @@
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.exe.config
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.exe
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\bin\Debug\RetrieveStudentData.pdb
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.csproj.AssemblyReference.cache
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.csproj.CoreCompileInputs.cache
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.exe
+C:\Users\ittam\OneDrive\Desktop\.Net_HandsOn\RetrieveStudentData\RetrieveStudentData\obj\Debug\RetrieveStudentData.pdb
